@@ -8,16 +8,16 @@
 </div>
 
 <p align="center">
-<kbd> <img src="https://github.com/MY-BLOODY-VALENTlNE/MY-BLOODY-VALENTlNE/blob/52cdc99db9c897413d8365ac96448a6a4db18560/tom-hanniger.gif" alt="tom hanniger" width="700"> </kbd> </p>
+<kbd> <img src="https://github.com/MY-BLOODY-VALENTlNE/MY-BLOODY-VALENTlNE/blob/86c8c57c35224878012307155b05fd35be3979a1/cute%20tom.gif" alt="tom hanniger" width="700"> </kbd> </p>
 
 <div align="center">
   <table>
     <tr>
-      <th><img src="https://github.com/MY-BLOODY-VALENTlNE/MY-BLOODY-VALENTlNE/blob/3343829de64a13319d51c38a8bd5d1f757803db7/my%20bloody%20valentine.jpg" width="165"> <th> <img src="https://github.com/MY-BLOODY-VALENTlNE/MY-BLOODY-VALENTlNE/blob/e4a89becf9c3258d5d55899c4e1e64bea4ebf8b5/chocolate%20box.png" width="320"> </th>
+      <th><img src="https://github.com/MY-BLOODY-VALENTlNE/MY-BLOODY-VALENTlNE/blob/3343829de64a13319d51c38a8bd5d1f757803db7/my%20bloody%20valentine.jpg" width="165"> <th> <img src="https://github.com/MY-BLOODY-VALENTlNE/MY-BLOODY-VALENTlNE/blob/e4a89becf9c3258d5d55899c4e1e64bea4ebf8b5/chocolate%20box.png" width="300"> </th>
     <th><img src="https://github.com/MY-BLOODY-VALENTlNE/MY-BLOODY-VALENTlNE/blob/3343829de64a13319d51c38a8bd5d1f757803db7/my%20bloody%20valentine%202.jpg" width="165"></th>
     </tr>
   </table>
 </div>
 
 <p align="center">
-<kbd> <img src="https://github.com/MY-BLOODY-VALENTlNE/MY-BLOODY-VALENTlNE/blob/86c8c57c35224878012307155b05fd35be3979a1/cute%20tom.gif" alt="tom hanniger" width="700"> </kbd> </p>
+<kbd> <img src="https://github.com/MY-BLOODY-VALENTlNE/MY-BLOODY-VALENTlNE/blob/52cdc99db9c897413d8365ac96448a6a4db18560/tom-hanniger.gif" alt="tom hanniger" width="700"> </kbd> </p>
