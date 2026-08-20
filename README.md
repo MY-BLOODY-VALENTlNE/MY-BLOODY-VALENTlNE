@@ -8,7 +8,7 @@
 </div>
 
 <p align="center">
-<kbd> <img src="https://github.com/MY-BLOODY-VALENTlNE/MY-BLOODY-VALENTlNE/blob/86c8c57c35224878012307155b05fd35be3979a1/cute%20tom.gif" alt="tom hanniger" width="700"> </kbd> </p>
+<kbd> <img src="https://github.com/MY-BLOODY-VALENTlNE/MY-BLOODY-VALENTlNE/blob/52cdc99db9c897413d8365ac96448a6a4db18560/tom-hanniger.gif" alt="tom hanniger" width="700"> </kbd> </p>
 
 <div align="center">
   <table>
@@ -20,4 +20,4 @@
 </div>
 
 <p align="center">
-<kbd> <img src="https://github.com/MY-BLOODY-VALENTlNE/MY-BLOODY-VALENTlNE/blob/52cdc99db9c897413d8365ac96448a6a4db18560/tom-hanniger.gif" alt="tom hanniger" width="700"> </kbd> </p>
+<kbd> <img src="https://github.com/MY-BLOODY-VALENTlNE/MY-BLOODY-VALENTlNE/blob/86c8c57c35224878012307155b05fd35be3979a1/cute%20tom.gif" alt="tom hanniger" width="700"> </kbd> </p>
