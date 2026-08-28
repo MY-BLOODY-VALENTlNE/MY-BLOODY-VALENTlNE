@@ -7,6 +7,22 @@
   </table>
 </div>
 
+<div align="center">
+  <table>
+    <tr>
+      <th><video src="https://github.com/user-attachments/assets/67cbd5f3-0914-49e7-a822-c8416df8ed0e" width="150" controls> </video></th>
+      <th><video src="https://github.com/user-attachments/assets/3c7873b1-072f-452f-9985-07f51a1939c1" width="150" controls> </video></th> 
+    </tr>
+  </table>
+</div>
+
+
+
+
+
+
+
+
 <p align="center">
 <kbd> <img src="https://github.com/MY-BLOODY-VALENTlNE/MY-BLOODY-VALENTlNE/blob/52cdc99db9c897413d8365ac96448a6a4db18560/tom-hanniger.gif" alt="tom hanniger" width="700"> </kbd> </p>
 
