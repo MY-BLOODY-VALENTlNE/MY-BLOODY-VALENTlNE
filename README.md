@@ -9,24 +9,25 @@
 
 <div align="center">
   <table>
-    <tr> <th> click below if you don't want to watch the trailers </th> <th> for both of the my bloody valentine movies </th>
+    <tr>
+      <th> <br> $${\color{#ef1f1f}wow⠀is⠀that⠀really⠀tom⠀hanniger}$$ <br>  <br> $${\color{#CE2620}i⠀like⠀my⠀bloody⠀valentine}$$ <br> $${\color{#CE2620}can⠀you⠀tell?}$$<br> <br> $${\color{#AD1D1B}oh⠀and⠀sign⠀my⠀ata}$$ <br> <br>
+        
+ ![](https://komarev.com/ghpvc/?username=MY-BLOODY-VALENTlNE&color=630302&style=flat-square&label=candy+boxes+with+human+hearts&base=1700&abbreviated=true) </th>
+      <th> <kbd> <img src="https://github.com/MY-BLOODY-VALENTlNE/MY-BLOODY-VALENTlNE/blob/86c8c57c35224878012307155b05fd35be3979a1/cute%20tom.gif" alt="tom hanniger" width="400"> </kbd> </th> 
     </tr>
+  </table>
+</div>
+
+<details <p align="center">
+<summary> $${\color{#EF1919}⠀⠀click⠀here⠀4⠀both⠀my⠀bloody⠀valentine⠀movie⠀trailers⠀,⠀mild⠀gore⠀warning⠀if⠀sensitive}$$  </summary> <div align="center">
+  <table>
     <tr>
       <th><video src="https://github.com/user-attachments/assets/67cbd5f3-0914-49e7-a822-c8416df8ed0e" width="300" controls> </video></th>
       <th><video src="https://github.com/user-attachments/assets/3c7873b1-072f-452f-9985-07f51a1939c1" width="300" controls> </video></th> 
     </tr>
   </table>
 </div>
-
-
-
-
-
-
-
-
-<p align="center">
-<kbd> <img src="https://github.com/MY-BLOODY-VALENTlNE/MY-BLOODY-VALENTlNE/blob/52cdc99db9c897413d8365ac96448a6a4db18560/tom-hanniger.gif" alt="tom hanniger" width="700"> </kbd> </p>
+</details>
 
 <div align="center">
   <table>
@@ -37,5 +38,13 @@
   </table>
 </div>
 
-<p align="center">
-<kbd> <img src="https://github.com/MY-BLOODY-VALENTlNE/MY-BLOODY-VALENTlNE/blob/86c8c57c35224878012307155b05fd35be3979a1/cute%20tom.gif" alt="tom hanniger" width="700"> </kbd> </p>
+<div align="center">
+  <table>
+    <tr>
+      <th><kbd> <img src="https://github.com/MY-BLOODY-VALENTlNE/MY-BLOODY-VALENTlNE/blob/52cdc99db9c897413d8365ac96448a6a4db18560/tom-hanniger.gif" alt="tom hanniger" width="350"> </kbd></th>
+      <th> remind me to finish up this part here bruh </th> 
+    </tr>
+  </table>
+</div>
+
+
