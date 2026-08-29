@@ -41,7 +41,7 @@
 <div align="center">
   <table>
     <tr>
-      <th><kbd> <img src="https://github.com/MY-BLOODY-VALENTlNE/MY-BLOODY-VALENTlNE/blob/52cdc99db9c897413d8365ac96448a6a4db18560/tom-hanniger.gif" alt="tom hanniger" width="350"> </kbd></th>
+      <th><kbd> <img src="https://github.com/MY-BLOODY-VALENTlNE/MY-BLOODY-VALENTlNE/blob/52cdc99db9c897413d8365ac96448a6a4db18560/tom-hanniger.gif" alt="tom hanniger" width="400"> </kbd></th>
       <th> remind me to finish up this part here bruh </th> 
     </tr>
   </table>
