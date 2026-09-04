@@ -41,7 +41,7 @@
 <div align="center">
   <table>
     <tr>
-      <th><kbd> <img src="https://github.com/MY-BLOODY-VALENTlNE/MY-BLOODY-VALENTlNE/blob/52cdc99db9c897413d8365ac96448a6a4db18560/tom-hanniger.gif" alt="tom hanniger" width="375"> </kbd></th>
+      <th><kbd> <img src="https://github.com/MY-BLOODY-VALENTlNE/MY-BLOODY-VALENTlNE/blob/52cdc99db9c897413d8365ac96448a6a4db18560/tom-hanniger.gif" alt="tom hanniger" width="400"> </kbd></th>
       <th> <img src="https://github.com/MY-BLOODY-VALENTlNE/MY-BLOODY-VALENTlNE/blob/8b3a5a607b82959173a7aa031443294000d61498/small%20pill.gif" width="15"> <br> i actually don't know what to put here. <br> <a href="https://mortisfication.neocities.org">check out my neocity i guess</a> <br> terribly handcoded by yours truly, me <br> </th> 
     </tr>
   </table>
