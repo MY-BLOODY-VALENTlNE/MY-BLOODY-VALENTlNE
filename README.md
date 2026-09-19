@@ -18,17 +18,6 @@
   </table>
 </div>
 
-<details <p align="center">
-<summary> $${\color{#EF1919}⠀⠀click⠀here⠀4⠀both⠀my⠀bloody⠀valentine⠀movie⠀trailers⠀,⠀mild⠀gore⠀warning⠀if⠀sensitive}$$  </summary> <div align="center">
-  <table>
-    <tr>
-      <th><video src="https://github.com/user-attachments/assets/67cbd5f3-0914-49e7-a822-c8416df8ed0e" width="300" controls> </video></th>
-      <th><video src="https://github.com/user-attachments/assets/3c7873b1-072f-452f-9985-07f51a1939c1" width="300" controls> </video></th> 
-    </tr>
-  </table>
-</div>
-</details>
-
 <div align="center">
   <table>
     <tr>
@@ -47,4 +36,13 @@
   </table>
 </div>
 
-
+<details <p align="center">
+<summary> $${\color{#EF1919}⠀⠀click⠀here⠀4⠀both⠀my⠀bloody⠀valentine⠀movie⠀trailers⠀,⠀mild⠀gore⠀warning⠀if⠀sensitive}$$  </summary> <div align="center">
+  <table>
+    <tr>
+      <th><video src="https://github.com/user-attachments/assets/67cbd5f3-0914-49e7-a822-c8416df8ed0e" width="300" controls> </video></th>
+      <th><video src="https://github.com/user-attachments/assets/3c7873b1-072f-452f-9985-07f51a1939c1" width="300" controls> </video></th> 
+    </tr>
+  </table>
+</div>
+</details>
