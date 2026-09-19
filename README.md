@@ -32,8 +32,8 @@
 <div align="center">
   <table>
     <tr>
-      <th><img src="https://github.com/MY-BLOODY-VALENTlNE/MY-BLOODY-VALENTlNE/blob/3343829de64a13319d51c38a8bd5d1f757803db7/my%20bloody%20valentine.jpg" width="165"> <th> <img src="https://github.com/MY-BLOODY-VALENTlNE/MY-BLOODY-VALENTlNE/blob/e4a89becf9c3258d5d55899c4e1e64bea4ebf8b5/chocolate%20box.png" width="300"> </th>
-    <th><img src="https://github.com/MY-BLOODY-VALENTlNE/MY-BLOODY-VALENTlNE/blob/3343829de64a13319d51c38a8bd5d1f757803db7/my%20bloody%20valentine%202.jpg" width="165"></th>
+      <th><img src="https://github.com/MY-BLOODY-VALENTlNE/MY-BLOODY-VALENTlNE/blob/3343829de64a13319d51c38a8bd5d1f757803db7/my%20bloody%20valentine.jpg" width="160"> <th> <img src="https://github.com/MY-BLOODY-VALENTlNE/MY-BLOODY-VALENTlNE/blob/e4a89becf9c3258d5d55899c4e1e64bea4ebf8b5/chocolate%20box.png" width="300"> </th>
+    <th><img src="https://github.com/MY-BLOODY-VALENTlNE/MY-BLOODY-VALENTlNE/blob/3343829de64a13319d51c38a8bd5d1f757803db7/my%20bloody%20valentine%202.jpg" width="160"></th>
     </tr>
   </table>
 </div>
